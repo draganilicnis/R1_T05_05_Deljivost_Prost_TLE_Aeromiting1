@@ -1,5 +1,6 @@
 // https://petlja.org/sr-Latn-RS/biblioteka/r/Zbirka3/aeromiting
 // https://petlja.org/sr-Latn-RS/kurs/14606/23/2756
+// https://onlinegdb.com/ra03R8wec
 // https://github.com/draganilicnis/R1_T05_05_Deljivost_Prost_TLE_Aeromiting1/blob/main/R1_T05_05_Deljivost_Prost_TLE_Aeromiting.cs
 
 using System;
